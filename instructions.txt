@@ -8,3 +8,19 @@ source venv/bin/activate
 
 
 pip install -r req.txt  cretae a 
+
+
+
+
+#git
+
+git init
+
+git remote add origin https://github.com/ssriramteja/NLP_Learning.git
+
+git add .
+
+git commit -m "Initial commit for NLP learning project"
+
+git branch -M main
+git push -u origin main
