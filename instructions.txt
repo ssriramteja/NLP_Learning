@@ -1,0 +1,10 @@
+open terminal 
+
+
+python3 -m venv venv - this will create a envirnment
+
+source venv/bin/activate
+
+
+
+pip install -r req.txt  cretae a 
